@@ -1,6 +1,7 @@
 # .gitignore
 
 .build
+build
 .vs
 *.exe
 *.pdb
